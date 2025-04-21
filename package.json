@@ -158,7 +158,7 @@
     "husky": "9.0.11",
     "lint-staged": "15.2.2",
     "mockdate": "3.0.5",
-    "nock": "13.5.4",
+    "nock": "14.0.4",
     "prettier": "3.2.5",
     "remark": "14.0.3",
     "remark-custom-heading-id": "1.0.1",
